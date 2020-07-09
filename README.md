@@ -2,4 +2,5 @@
 
 ### I don't code.
 
-##### Bother me here; [@notkoutsie](https://twitter.com/notkoutsie) or here [@koutsie@mastodon.technology](https://mastodon.technology/@koutsie) maybe you like [Discord?](dsc.bio/ko)
+##### Bother me in; [Twitter](https://twitter.com/notkoutsie) or here [Mastodon](https://mastodon.technology/@koutsie).
+##### Maybe you like [Discord?](https://dsc.bio/ko) or want to be friends in [Steam?](https://steamcommunity.com/id/koutsie/) ([Friend link](https://s.team/p/pvc-bmhq))
