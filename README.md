@@ -1,4 +1,4 @@
-# Heya, I'm Koutsie
+# Heya, I'm Koutsie.
 
 ### I don't code.
 
