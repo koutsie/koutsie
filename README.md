@@ -9,4 +9,4 @@
 
 ![koutsie's github stats](https://github-readme-stats.vercel.app/api?username=koutsie&show_icons=true&hide_border=true)
 
-[![koutsie's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=koutsie)]
+[![koutsie's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=koutsie&hide=javascript,html&layout=compact)]
