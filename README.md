@@ -11,3 +11,6 @@
 
 
 <a href="https://www.buymeacoffee.com/koutsie" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-orange.png" alt="Buy Me A Coffee" align="left" height="38" ></a>
+
+
+<a href="https://steamlevels.com/r/k" target="_blank"><img src="https://static.steamlevels.com/img/SteamLevelsGif.gif" alt="My steamlevels link!" align="left" height="38" ></a>
