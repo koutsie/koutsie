@@ -7,7 +7,7 @@
 ##### Maybe you like [Discord?](https://dsc.bio/ko) or want to be friends in [Steam?](https://steamcommunity.com/id/koutsie/) ([Friend link](https://s.team/p/pvc-bmhq))
 
 
-![koutsie's github stats](https://github-readme-stats.vercel.app/api?username=koutsie&show_icons=true&hide_border=true)
+![koutsie's github stats](https://github-readme-stats.vercel.app/api?username=koutsie&show_icons=true&hide_border=true&theme=synthwave)
 
 
 <a href="https://www.buymeacoffee.com/koutsie" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-orange.png" alt="Buy Me A Coffee" align="left" height="38" ></a>
