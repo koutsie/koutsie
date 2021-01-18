@@ -2,7 +2,8 @@
 [![HitCount](http://hits.dwyl.com/koutsie/koutsie.svg)](http://hits.dwyl.com/koutsie/koutsie)
 
 ### I don't code.
-
+IM: [Telegram](https://t.me/scafizion) or <a href="tox:56A1ADE4B65B86BCD51CC73E2CD4E542179F47959FE3E0E21B4B0ACDADE51855D34D34D37CB5">Tox</a>
+Note, it's better to hit me up elsewhere first and then send a message in Tox.
 ##### Bother me in; [Twitter](https://twitter.com/notkoutsie) or [Mastodon](https://mastodon.technology/@koutsie).
 ##### Maybe you like [Discord?](https://dsc.bio/ko) or want to be friends in [Steam?](https://steamcommunity.com/id/koutsie/) ([Friend link](https://s.team/p/pvc-bmhq))
 
