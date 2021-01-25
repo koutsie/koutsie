@@ -2,7 +2,7 @@
 [![HitCount](http://hits.dwyl.com/koutsie/koutsie.svg)](http://hits.dwyl.com/koutsie/koutsie)
 
 ### I don't code.
-IM: [Telegram](https://t.me/scafizion) or <a href="tox:56A1ADE4B65B86BCD51CC73E2CD4E542179F47959FE3E0E21B4B0ACDADE51855D34D34D37CB5">Tox <sup>[56A1ADE4B65B86BCD51CC73E2CD4E542179F47959FE3E0E21B4B0ACDADE51855D34D34D37CB5]</sup> </a>
+IM: [Telegram](https://t.me/scafizion) or <a href="">Tox <sup>[New ToxID coming soon.]</sup> </a>
 
 Note, it's better to hit me up elsewhere first and then send a message in Tox.
 ##### Bother me in; [Twitter](https://twitter.com/notkoutsie) or [Mastodon](https://mastodon.technology/@koutsie).
