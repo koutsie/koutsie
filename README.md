@@ -12,11 +12,11 @@ Note, it's better to hit me up elsewhere first and then send a message in Tox.
 
 
 
-<a href="https://www.binance.com/en/register?ref=J9CS2OPJ" target="_blank"><img src="sex.svg" alt="Binance" align="left" height="38" ></a><br>
+<a href="https://www.binance.com/en/register?ref=J9CS2OPJ" target="_blank"><img src="sex.svg" alt="Binance" align="left" height="38" ></a>
+<a href="https://steamlevels.com/r/k" target="_blank"><img src="https://static.steamlevels.com/img/SteamLevelsGif.gif" alt="My steamlevels link!" align="left" height="38" ></a>
 
+<br><br>
 
-
-<a href="https://steamlevels.com/r/k" target="_blank"><img src="https://static.steamlevels.com/img/SteamLevelsGif.gif" alt="My steamlevels link!" align="left" height="38" ></a><br>
 
 
 [![HitCount](http://hits.dwyl.com/koutsie/koutsie.svg)](http://hits.dwyl.com/koutsie/koutsie)
