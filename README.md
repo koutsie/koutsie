@@ -1,7 +1,7 @@
 # Heya, I'm Koutsie. 
 ### I don't code.
 
-IM: [Telegram](https://t.me/scafizion) or <a href="">Tox <sup>[New ToxID coming soon.]</sup> </a>
+IM: [Telegram](https://t.me/scafizion).
 
 Note, it's better to hit me up elsewhere first and then send a message in Tox.
 ##### Bother me in; [Twitter](https://twitter.com/notkoutsie) or [Mastodon](https://mastodon.technology/@koutsie).
