@@ -1,5 +1,6 @@
 # Heya, I'm Koutsie. 
 ### I don't code.
+#### Please use [PGP](https://koutsie.github.io/pgp.html) if possible.
 
 IM: [Telegram](https://t.me/scafizion).
 
