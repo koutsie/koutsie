@@ -5,8 +5,6 @@
 
 ![koutsie's github stats](https://github-readme-stats.vercel.app/api?username=koutsie&show_icons=true&hide_border=true&theme=synthwave)<br>
 
-----
-
 ## IM: 
 #### Please use [PGP](https://koutsie.github.io/pgp.html) if possible.
 Tox (preferred): `DFBFE450E11A597C626582C8025FC8897452CA42ADC09267E9D1906B4102976A8FBE3F5D3774`
