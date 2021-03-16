@@ -6,7 +6,7 @@
 ![koutsie's github stats](https://github-readme-stats.vercel.app/api?username=koutsie&show_icons=true&hide_border=true&theme=synthwave)<br>
 
 ## IM: 
-#### Please use [PGP](https://koutsie.github.io/pgp.html) if possible.
+<!-- #### Please use [PGP](https://koutsie.github.io/pgp.html) if possible. -->
 
 
 [Telegram](https://t.me/scafizion).
