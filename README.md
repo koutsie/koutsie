@@ -19,4 +19,4 @@ Note, it's better to hit me up elsewhere first and then send a message in Tox.
 ##### Maybe you like [Discord?](https://dsc.bio/ko) or want to be friends in [Steam?](https://steamcommunity.com/id/koutsie/) ([Friend link](https://s.team/p/pvc-bmhq))
 
 
-<a href="https://steamlevels.com/r/k" target="_blank"><img src="https://static.steamlevels.com/img/SteamLevelsGif.gif" alt="My steamlevels link!" align="left" height="38" ></a>[![HitCount](http://hits.dwyl.com/koutsie/koutsie.svg)](http://hits.dwyl.com/koutsie/koutsie)
+[![HitCount](http://hits.dwyl.com/koutsie/koutsie.svg)](http://hits.dwyl.com/koutsie/koutsie)
