@@ -1,7 +1,7 @@
 # Heya, I'm Koutsie. 
 ### I don't code.
 
-![Metrics](https://metrics.lecoq.io/koutsie?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&tweets=1&lines=1&languages.colors=github&languages.threshold=0%25&tweets.limit=2&tweets.user=.user.twitter&config.timezone=Europe%2FHelsinki&config.twemoji=true)
+![Metrics](https://metrics.lecoq.io/koutsie?template=classic&pagespeed=1&pagespeed.url=koutsie.github.io&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Europe%2FHelsinki&config.twemoji=true)
 
 ![koutsie's github stats](https://github-readme-stats.vercel.app/api?username=koutsie&show_icons=true&hide_border=true&theme=synthwave)<br>
 
