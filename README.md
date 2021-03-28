@@ -1,7 +1,7 @@
 # Heya, I'm Koutsie. 
 ### I don't code.
 
-Statistics:
+### Statistics:
 <details>
 
 ![Metrics](https://metrics.lecoq.io/koutsie?template=classic&pagespeed=1&pagespeed.url=koutsie.github.io&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Europe%2FHelsinki&config.twemoji=true)
@@ -9,7 +9,7 @@ Statistics:
 ![koutsie's github stats](https://github-readme-stats.vercel.app/api?username=koutsie&show_icons=true&hide_border=true&theme=synthwave)<br>
 </details>
 
-## IM: 
+### IM: 
 <details>
 
 <!-- #### Please use [PGP](https://koutsie.github.io/pgp.html) if possible. -->
