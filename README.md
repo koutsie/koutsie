@@ -1,4 +1,4 @@
-# Heya, I'm Koutsie. 
+# I'm Koutsie. 
 ### I don't code.
 
 ### Statistics:
@@ -27,5 +27,9 @@ Note, it's better to hit me up elsewhere first and then send a message in Tox.
 
 [![HitCount](http://hits.dwyl.com/koutsie/koutsie.svg)](http://hits.dwyl.com/koutsie/koutsie)
 
-
+### Other
+<details>
+  
 **new** also on https://salsa.debian.org/koutsie
+
+</details>
