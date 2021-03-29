@@ -26,6 +26,7 @@ Note, it's better to hit me up elsewhere first and then send a message in Tox.
 </details>
 
 [![HitCount](http://hits.dwyl.com/koutsie/koutsie.svg)](http://hits.dwyl.com/koutsie/koutsie)
+<a href="https://twitter.com/notkoutsie"><img src="https://flat.badgen.net/twitter/follow/notkoutsie"></a>
 
 ### Other
 <details>
