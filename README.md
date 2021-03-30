@@ -9,7 +9,6 @@
 ![koutsie's github stats](https://github-readme-stats.vercel.app/api?username=koutsie&show_icons=true&hide_border=true&theme=synthwave)<br>
 </details>
 
-:suspect:	:suspect:	:suspect:	:suspect:	:suspect:	:suspect:	
 
 ### IM: 
 <details>
@@ -31,7 +30,6 @@ Note, it's better to hit me up elsewhere first and then send a message in Tox.
 
 [![HitCount](http://hits.dwyl.com/koutsie/koutsie.svg)](http://hits.dwyl.com/koutsie/koutsie)
 
-:suspect:	:suspect:	:suspect:	:suspect:	:suspect:	:suspect:	
 
 ### Other
 <details>
