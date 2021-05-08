@@ -28,8 +28,6 @@ Note, it's better to hit me up elsewhere first and then send a message in Tox.
 
 <a href="https://twitter.com/notkoutsie"><img src="https://flat.badgen.net/twitter/follow/notkoutsie"></a>
 
-[![HitCount](http://hits.dwyl.com/koutsie/koutsie.svg)](http://hits.dwyl.com/koutsie/koutsie)
-
 
 ### Other
 <details>
