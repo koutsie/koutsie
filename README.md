@@ -1,6 +1,10 @@
 # I'm Koutsie. 
-### I don't code.
+### I do stuff.
+
 :suspect:	:suspect:	:suspect:	:suspect:	:suspect:	:suspect:	
+
+cool orgs: @aqua-Hook & @SwagSoftware
+
 ### Statistics:
 <details>
 
