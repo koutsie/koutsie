@@ -3,8 +3,6 @@
 
 :suspect:	:suspect:	:suspect:	:suspect:	:suspect:	:suspect:	
 
-cool orgs: @aqua-Hook & @SwagSoftware
-
 ### Statistics:
 <details>
 
@@ -38,4 +36,5 @@ Note, it's better to hit me up elsewhere first and then send a message in Tox.
   
 **new** also on https://salsa.debian.org/koutsie
 
+cool orgs: @aqua-Hook & @SwagSoftware
 </details>
