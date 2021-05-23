@@ -6,7 +6,6 @@
 ### Statistics:
 
 ![Metrics](https://metrics.lecoq.io/koutsie?template=classic&pagespeed=1&pagespeed.url=koutsie.github.io&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Europe%2FHelsinki&config.twemoji=true)
-
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/koutsie?cardType=level-alternate&theme=calm)](https://git.io/awesome-stats-card)
 <br>
 
