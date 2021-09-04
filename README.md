@@ -27,7 +27,7 @@ Note, it's better to hit me up elsewhere first and then send a message in Tox.
 
 </details>
 
-<a href="https://twitter.com/notkoutsie"><img src="https://flat.badgen.net/twitter/follow/notkoutsie"></a>
+![Twitter Follow](https://img.shields.io/twitter/follow/notkoutsie?color=white&label=%40notkoutsie&logo=twitter&style=flat-square)
 
 
 ### Other
