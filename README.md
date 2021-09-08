@@ -16,7 +16,7 @@
 ![Mastodon Follow](https://img.shields.io/mastodon/follow/000148423?color=orange&domain=https%3A%2F%2Fmastodon.technology&label=%40koutsie&logo=mastodon&logoColor=white&style=flat-square)
 
 #### IM:
-- [![Telegram](https://img.shields.io/badge/Scafs-Telegram-white?style=flat-square&logo=telegram)](https://t.me/scafizion)
+[![Telegram](https://img.shields.io/badge/Scafs-Telegram-white?style=flat-square&logo=telegram)](https://t.me/scafizion)
 
 ---
 
