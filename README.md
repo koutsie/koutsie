@@ -9,6 +9,8 @@
 ![Metrics](https://metrics.lecoq.io/koutsie?template=classic&pagespeed=1&pagespeed.url=koutsie.github.io&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Europe%2FHelsinki&config.twemoji=true)
 </details>
 
+![](https://hit.yhype.me/github/profile?user_id=18449778)
+
 ### Social
 <details>
 
