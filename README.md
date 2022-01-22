@@ -1,6 +1,6 @@
 # I'm Koutsie. 
 ### I do stuff.
-
+[![committers.top badge](https://user-badge.committers.top/finland/koutsie.svg)](https://user-badge.committers.top/finland/koutsie)<br>
 :suspect:	:suspect:	:suspect:	:suspect:	:suspect:	:suspect:	
 
 ### Statistics:
