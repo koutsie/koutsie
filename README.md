@@ -16,7 +16,7 @@ Social:
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/notkoutsie?color=orange&label=%40notkoutsie&logo=twitter&style=flat-square)
-![Mastodon Follow](https://img.shields.io/mastodon/follow/000148423?color=orange&domain=https%3A%2F%2Fmastodon.technology&label=%40koutsie&logo=mastodon&logoColor=white&style=flat-square)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/000148423?color=orange&domain=https%3A%2F%2Flayer8.space&label=%40k&logo=mastodon&logoColor=white&style=flat-square)
 
 IM:
 
