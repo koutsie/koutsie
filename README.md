@@ -14,10 +14,9 @@ Statistics:
 
 Social:
 
-
-![Twitter Follow](https://img.shields.io/twitter/follow/notkoutsie?color=orange&label=%40notkoutsie&logo=twitter&style=flat-square)
-![Mastodon Follow](https://img.shields.io/mastodon/follow/000148423?color=orange&domain=https%3A%2F%2Flayer8.space&label=%40k&logo=mastodon&logoColor=white&style=flat-square)
-
+![Mastodon Follow](https://img.shields.io/mastodon/follow/107155579785293280?color=orange&domain=https%3A%2F%2Flayer8.space%2F&label=follow%20ma%20toots&logoColor=orange)
+  
+  
 IM:
 
 [![Telegram](https://img.shields.io/badge/Scafs-Telegram-white?style=flat-square&logo=telegram)](https://t.me/scafizion)
@@ -25,14 +24,5 @@ IM:
 ---
 
 ##### Maybe you want to be friends in [Steam?](https://steamcommunity.com/id/koutsie/) ([Friend link](https://s.team/p/pvc-bmhq))
-
-
-Other
-
-  
-**new** also on https://salsa.debian.org/koutsie
-
-cool orgs: @aqua-Hook & @SwagSoftware
-
 </details>
 
